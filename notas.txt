@@ -1,1 +1,16 @@
 Estoy siguiendo los pasos del video: https://www.youtube.com/watch?v=NYoCbihISxw
+
+Podemos generar controladores a traves del terminal de nest:
+    nest generate controller nombreDeLaTarea
+
+instalar mongoose
+    npm i @nestjs/mongoose mongoose
+
+instalar mongoDB
+    https://www.youtube.com/watch?v=I4vh8Lc7hn8
+    https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/
+
+    sudo systemctl start mongod
+    sudo systemctl status mongod
+    sudo systemctl stop mongod
+    sudo systemctl restart mongod
